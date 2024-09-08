@@ -1,2 +1,2 @@
-# javadesigner
-It can be done with any java program.
+# java editor
+a editor of java you can use all the time.
